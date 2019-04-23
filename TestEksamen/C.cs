@@ -6,14 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestEksamen
 {
-    class Program
+    class C
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hej");
-
-
-            Console.ReadKey();
-        }
+        private int hej = 1;
     }
 }
