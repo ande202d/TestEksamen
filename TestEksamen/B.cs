@@ -9,5 +9,10 @@ namespace TestEksamen
     class B
     {
         private int hej = 1;
+
+        public B()
+        {
+
+        }
     }
 }
