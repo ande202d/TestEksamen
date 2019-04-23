@@ -9,5 +9,6 @@ namespace TestEksamen
     class B
     {
         private int hej = 1;
+        private bool yayeet = true;
     }
 }
