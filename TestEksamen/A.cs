@@ -9,5 +9,6 @@ namespace TestEksamen
     class A
     {
         private int hej = 1;
+        private int jonas = 100;
     }
 }
